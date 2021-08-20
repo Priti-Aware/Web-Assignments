@@ -1,0 +1,42 @@
+body {
+    display: block;
+    margin: 25px;
+}
+
+img {
+    border-radius: 50%;
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid #660033;
+}
+
+h1 {
+    border: 5px dotted #ff0369;
+    color: red;
+    margin-right: 10px;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px 10px black;
+}
+
+p {
+    font-size: 20px;
+    font-family: fantasy;
+    padding: 50px;
+    text-align: justify;
+}
+
+.n {
+    border: 5px solid #ff0369;
+}
+
+.g {
+    border: 5px solid #42b9b9;
+}
+
+.o {
+    border: 5px solid rgb(184, 3, 255);
+}
